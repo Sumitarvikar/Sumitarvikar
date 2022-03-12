@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-api-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-chrome-driver-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-chromium-driver-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-devtools-v85-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-devtools-v94-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-devtools-v95-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-devtools-v96-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-edge-driver-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-firefox-driver-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-firefox-xpi-driver-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-http-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-ie-driver-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-json-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-opera-driver-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-remote-driver-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-safari-driver-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-server-4.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-support-4.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
